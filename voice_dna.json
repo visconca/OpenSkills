@@ -1,0 +1,83 @@
+{
+  "writing_style_profile_business": {
+    "tone": [
+      "reflective",
+      "calm",
+      "grounded",
+      "relational",
+      "non-dogmatic",
+      "long-term oriented"
+    ],
+    "voice": {
+      "primary": "philosophical_business",
+      "secondary": "peer_advisory",
+      "confidence_style": "quiet_authority",
+      "stance": "sense-maker_for_others"
+    },
+    "sentence_structure": {
+      "length": "short_to_medium",
+      "cadence": "oral_but_edited",
+      "paragraph_intent": "one_clear_point",
+      "line_breaks": "intentional",
+      "logic_flow": "explicit",
+      "emphasis_tool": "clarity_over_rhetoric"
+    },
+    "vocabulary": {
+      "dominant_type": "conceptual_and_decision_oriented",
+      "adjective_density": "low",
+      "verb_style": "analytical",
+      "register": "senior_business",
+      "avoid": [
+        "buzzwords",
+        "jargon",
+        "emotive_language",
+        "sales_tone"
+      ]
+    },
+    "punctuation": {
+      "never_use": [
+        "em_dash (—)",
+        "en_dash (–)"
+      ],
+      "use_instead": [
+        "Use periods to break thoughts into separate sentences",
+        "Use commas for dependent clauses",
+        "Use parentheses for asides",
+        "Use colons to introduce lists or explanations"
+      ],
+      "rationale": "Em dashes are an LLM signature. They signal AI-generated text. Replace with simpler punctuation that reads naturally."
+    },
+    "conceptual_lens": [
+      "human_relationships",
+      "institutions_as_long_term_players",
+      "tradeoffs_over_absolutes",
+      "ethics_and_incentives",
+      "time_horizons",
+      "second_order_effects"
+    ],
+    "strengths_to_amplify": [
+      "reframing_complex_issues",
+      "cross_domain_thinking",
+      "moral_clarity_without_preaching",
+      "long_term_perspective",
+      "calm_decision_support"
+    ],
+    "dos": [
+      "write as if advising a smart peer",
+      "make implications explicit",
+      "anchor ideas in business reality",
+      "use analogy sparingly and precisely",
+      "end with alignment or direction",
+      "prioritize clarity over completeness"
+    ],
+    "donts": [
+      "avoid journaling tone",
+      "avoid unresolved reflections",
+      "avoid excessive hedging",
+      "avoid corporate clichés",
+      "avoid emotional exposition",
+      "NEVER use em dashes (—) or en dashes (–)"
+    ],
+    "one_line_definition": "Calm, philosophical business writing that clarifies decisions, aligns thinking, and privileges long-term perspective over short-term noise."
+  }
+}
